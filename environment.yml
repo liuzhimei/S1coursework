@@ -1,0 +1,16 @@
+name: S1_zhimei_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9  # Adjust the Python version as needed
+  - numpy
+  - scipy
+  - matplotlib
+  - iminuit
+  - uncertainties
+  - scikit-learn  # for sweights
+  - tqdm
+  - pip
+  - pip:
+      - sweights
