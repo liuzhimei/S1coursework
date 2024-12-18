@@ -2,6 +2,8 @@
 
 This repository contains the code and dependencies required for running the `S1_coursework.ipynb` Jupyter Notebook. Follow the steps below to set up the environment and run the notebook.
 
+**Note**: This is the assessed coursework for the course **Statistical Methods in Data Intensive Science**, which is one of the courses of the Data Intensive Science Mphil programme, at the University of Cambridge. 
+
 ---
 
 ## 1. Environment Setup
