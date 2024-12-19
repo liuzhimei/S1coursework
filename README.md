@@ -2,7 +2,7 @@
 
 This repository contains the code and dependencies required for running the `S1_coursework.ipynb` Jupyter Notebook. Follow the steps below to set up the environment and run the notebook.
 
-**Note**: This is the assessed coursework for the course **Statistical Methods in Data Intensive Science**, which is one of the courses of the Data Intensive Science Mphil programme, at the University of Cambridge. The questions are listed in the file `S1_Coursework_Questions.pdf`, and my report is the file `S1_coursework_report.pdf`.
+**Note**: This is the assessed coursework for the course **Statistical Methods in Data Intensive Science**, which is one of the courses of the Data Intensive Science Mphil programme, at the University of Cambridge. The questions are listed in the file `S1_Coursework_Questions.pdf`, and my report is the file `S1_coursework_report.pdf`. The goal of this coursework is to compare between the statistical power of a multi-dimensional likelihood fit and a weighted fit exploiting **sWeights**. 
 
 ---
 
@@ -21,8 +21,8 @@ To ensure all dependencies are installed properly, set up the environment using 
 Run the following commands in terminal:
 1. Clone the repository
     ```bash
-    git clone git@gitlab.developers.cam.ac.uk:phy/data-intensive-science-mphil/assessments/s1_coursework/zl474.git
-    cd zl474
+    git clone https://github.com/liuzhimei/S1coursework.git
+    cd S1coursework
     ```
 2. Create the environment from the `environment.yml` file:
     ```bash
